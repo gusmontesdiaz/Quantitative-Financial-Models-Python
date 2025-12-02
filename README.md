@@ -29,7 +29,7 @@ This notebook features three separate quantitative models:
 * **Objective:** To quantify the potential maximum loss over a specific time horizon for a financial asset (`GFNORTEO.MX`).
 * **Methodology:** **Historical Simulation VaR** is calculated at 90%, 95%, and 99% confidence levels, based on the distribution of historical Profit & Loss (P&L).
 
-## ✨ Value Proposition for the Analyst Role
+## ✨ Value Proposition.
 
 * **Risk Modeling Expertise:** Proven ability to calculate and interpret critical risk metrics (VaR) using a rigorous historical simulation approach.
 * **Advanced Quantitative Skills:** Direct experience in pricing complex financial products (derivatives) using recognized industry models (CRR).
